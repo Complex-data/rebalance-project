@@ -1,0 +1,7 @@
+input_links ../data/netflix_com/new_twenty_u&i/netflix_com_20u&i.txt
+user_col 1
+item_col 2
+rating_col 3
+time_col 4
+
+output_dir ../wj_netflix_com_result/new20u&i/

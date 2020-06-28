@@ -1,0 +1,7 @@
+input_links ../net-data.dat
+class_file ../net-movies.dat
+user_col 1
+item_col 2
+time_col 3
+
+output_dir ./output_net
